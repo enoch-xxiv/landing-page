@@ -148,3 +148,12 @@ body {
     color: white;
     border: solid;
 }
+
+.footer {
+    padding: 2% 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
