@@ -99,3 +99,23 @@ body {
     width: 90%;
     height: auto;
 }
+
+.quote {
+    background-color: #E5E7EB;
+
+
+    font-style: italic;
+    color: #1F2937;
+
+    display: flex;
+    flex-direction: column;
+    padding: 2% 15%;
+}
+
+.quote p {
+    font-size: 36px;
+}
+
+.quote i {
+    text-align: right;
+}
