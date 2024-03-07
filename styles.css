@@ -69,3 +69,27 @@ body {
     border: none;
     border-radius: 3%;
 }
+
+.info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 2% 15%;
+}
+
+.info-images {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.info-box {
+    width: 25%;
+    text-align: center;
+}
+
+.info-box img {
+    width: 100%;
+    height: auto;
+}
