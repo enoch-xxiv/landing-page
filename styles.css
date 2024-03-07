@@ -119,3 +119,32 @@ body {
 .quote i {
     text-align: right;
 }
+
+.action {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2% 15%;
+}
+
+.bar {
+    width: 100%;
+    border-radius: 8px;
+    padding: 10px;
+
+    background-color: #3882F6;
+    color: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.bar button {
+    height: 33%;
+    padding: 8px 35px;
+    background-color: #3882F6;
+    border-color: white;
+    color: white;
+    border: solid;
+}
