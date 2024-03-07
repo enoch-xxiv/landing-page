@@ -78,6 +78,12 @@ body {
     padding: 2% 15%;
 }
 
+.info h2 {
+    font-size: 36px;
+    font-weight: 1100;
+    color: #1F2937;
+}
+
 .info-images {
     display: flex;
     width: 100%;
@@ -90,6 +96,6 @@ body {
 }
 
 .info-box img {
-    width: 100%;
+    width: 90%;
     height: auto;
 }
